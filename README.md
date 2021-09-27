@@ -12,4 +12,4 @@ By making use of three supervised classification algorithm:
 
 We compare the performance on each data augmentaion method and then see if there are any ways offered to customer as an incentive to reduce their premium.
 
-![image](https://user-images.githubusercontent.com/85088283/134841721-f96dc3fb-8eb7-4f85-a183-89e6b2770cb6.png)
+
